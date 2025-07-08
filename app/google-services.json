@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521795883797",
+    "project_id": "roadvision-c783d",
+    "storage_bucket": "roadvision-c783d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521795883797:android:55b889d6b8da6e0dc1cf1c",
+        "android_client_info": {
+          "package_name": "com.example.roadvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfD_WR7HAqcjLZg8WgwVPYwSSbnwP-JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
